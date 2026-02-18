@@ -1,0 +1,15 @@
+Language: C
+BasedOnStyle: LLVM
+IndentWidth: 4
+TabWidth: 4
+UseTab: Never
+ColumnLimit: 80
+AllowShortIfStatementsOnASingleLine: Never
+AllowShortLoopsOnASingleLine: false
+SpaceBeforeParens: ControlStatements
+SpacesInParentheses: false
+PointerAlignment: Right
+IndentCaseLabels: true
+SortIncludes: true
+MaxEmptyLinesToKeep: 1
+AllowShortFunctionsOnASingleLine: None
