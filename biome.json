@@ -13,7 +13,8 @@
       "semicolons": "always",
       "trailingCommas": "all",
       "bracketSpacing": true,
-      "arrowParentheses": "always"
+      "arrowParentheses": "always",
+      "quoteStyle": "single"
     }
   },
 
